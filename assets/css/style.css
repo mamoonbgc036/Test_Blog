@@ -142,7 +142,8 @@ h6 {
 }
 
 .header .nav-item {
-    font-weight: bold
+    font-weight: bold;
+    list-style: none;
 }
 
 .header .nav-item.active a {
